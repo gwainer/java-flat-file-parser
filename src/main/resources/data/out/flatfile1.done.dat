@@ -1,0 +1,15 @@
+Results for /Users/gabrielcw/codefish/ffp/src/main/resources/data/out/flatfile1.done.dat - 10 Aug 2015 21:34:57
+-------------------------------------------------------------------------------------------
+Amount of clients: 4
+Amount of Salesman: 3
+Most expensive sale ID: 8
+Worst salesman: Fagundes
+-------------------------------------------------------------------------------------------
+
+
+
+NOTES:
+- The Worst salesman is the one which has the lowest sales total value.
+- Amount of clients and Salesmen considers only distinct ones.
+- If you change a file, the results are re-calculated and the old results are overwritten.
+- Date is UTC.
